@@ -56,11 +56,15 @@
 
 ![](https://camo.githubusercontent.com/cfbf403c79b64fbce58724321f01776ae9722e5e/687474703a2f2f692e696d6775722e636f6d2f6274394272726a2e706e67)
 
+-
+
 项目名: [eidolon](https://github.com/artsy/eidolon)
 
 预览:
 
 ![](http://artsy.github.io/images/2014-11-12-eidolon-retrospective/listings.png)
+
+-
 
 项目名: [Pizzaiolo](https://github.com/fadion/pizzaiolo-ios)
 
@@ -77,11 +81,15 @@
 
 ![](https://github.com/kLike/ZhiHu-RxSwift/blob/master/ZhiHu%2BRxSwift/menuShow.gif)
 
+-
+
 项目名: [RxTodo](https://github.com/devxoul/RxTodo)
 
 预览:
 
 ![](https://cloud.githubusercontent.com/assets/931655/21965942/1611927a-dbad-11e6-99ee-3509d06dc242.png)
+
+-
 
 项目名: [Drrrible](https://github.com/devxoul/Drrrible)
 
@@ -89,15 +97,20 @@
 
 ![](https://cloud.githubusercontent.com/assets/931655/25969722/f68d65ee-36d0-11e7-9553-83eb201dfdf2.png)
 
+
+-
+
 项目名: [obk-ios](https://github.com/alaphao/obk-ios)
 
-预览: 
+-
 
 项目名: [Cleverbot](https://github.com/devxoul/Cleverbot)
 
 预览:
 
 ![](https://cloud.githubusercontent.com/assets/931655/23445337/14bc4afc-fe7e-11e6-81ca-7ceb49c16ebe.png)
+
+-
 
 项目名: [marvelapp](https://github.com/thiagolioy/marvelapp)
 
@@ -115,10 +128,6 @@ Creating a Marvel iOS App from scratch..
 - [Part 4 | Sketch for developers](https://medium.com/cocoaacademymag/creating-a-marvel-ios-app-from-scratch-part-4-sketch-for-developers-2344a221482a#.kr3lhhobz)
 
 
-
-预览:
-
-![](https://github.com/thiagolioy/marvelapp/blob/master/assets/marvel_screens.png)
 
 
 ## Rx 系列库
