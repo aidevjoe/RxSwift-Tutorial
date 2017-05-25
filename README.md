@@ -43,11 +43,18 @@
 
 - [RxSwift的学习资料清单](http://adamborek.com/rxswift-materials-list/)
 
+- [RxSwift学习之旅](https://github.com/AloneMonkey/RxSwiftStudy)
+
 - [RxSwift: Transforming Operators in Practice](https://www.raywenderlich.com/158364/rxswift-transforming-operators-practice)
 
 - [RxSwift: Transforming Operators](https://www.raywenderlich.com/158205/rxswift-transforming-operators)
 
 - [Raywenderlich RxSwift Reactive Programming with Swift](https://store.raywenderlich.com/products/rxswift?_ga=2.4726323.1456409106.1495637039-612580056.1495457835)
+
+
+
+
+
 ## RxSwift 开源项目
 
 项目名: [v2ex](https://github.com/darkerk/v2ex)
@@ -110,6 +117,81 @@
 
 ![](https://cloud.githubusercontent.com/assets/931655/23445337/14bc4afc-fe7e-11e6-81ca-7ceb49c16ebe.png)
 
+
+-
+
+项目名: [RxPunk](https://github.com/Swift-Yah/RxPunk)
+
+预览: 
+
+![](https://ooo.0o0.ooo/2017/05/25/59263db985a9f.jpeg)
+
+-
+
+项目名: [Gank](https://github.com/Maru-zhang/Gank)
+
+预览:
+
+![](https://github.com/Maru-zhang/Gank/blob/master/Screenshot/01.png)
+
+-
+
+项目名: [photostickers](https://github.com/jjochen/photostickers)
+
+预览:
+
+![](https://github.com/jjochen/photostickers/blob/master/Screenshot.jpg)
+
+-
+
+项目名: [QiitaWithFluxSample](https://github.com/marty-suzuki/QiitaWithFluxSample)
+
+预览:
+
+
+![](https://github.com/marty-suzuki/QiitaWithFluxSample/blob/master/Images/Qiita.gif)
+
+-
+
+项目名: [RxSwiftPlayer](https://github.com/scotteg/RxSwiftPlayer)
+
+预览:
+
+![](https://github.com/scotteg/RxSwiftPlayer/blob/master/Assets/RxSwiftPlayer.png)
+
+
+-
+
+项目名: [DouYuTVMutate](https://github.com/jasnig/DouYuTVMutate)
+
+预览: 
+
+![](https://camo.githubusercontent.com/01ce3ce6f370bb7fbb7b5c5f644d1a3bfd9f9d6e/687474703a2f2f75706c6f61642d696d616765732e6a69616e7368752e696f2f75706c6f61645f696d616765732f313237313833312d376664643337643234663464613731332e6769663f696d6167654d6f6772322f6175746f2d6f7269656e742f7374726970)
+
+-
+
+项目名: [Passcode](https://github.com/cruisediary/Passcode)
+
+预览:
+
+![](https://camo.githubusercontent.com/b3948361e05ca2e17338c5b71db43459d5efdec4/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f70664f5a466846424938676c612f67697068792e676966)
+
+
+-
+
+项目名: [100-days-of-RxSwift](https://github.com/Edison-Hsu/100-days-of-RxSwift)
+
+
+预览:
+
+![](https://github.com/Edison-Hsu/100-days-of-RxSwift/blob/master/gifs/18-DynamicDataForEachCell.gif)
+
+-
+
+项目名: [MarvelSwift](https://github.com/jimmyaat10/MarvelSwift)
+
+![](https://raw.githubusercontent.com/jimmyaat10/MarvelSwift/master/demo/demoVideo2.gif)
+
 -
 
 项目名: [marvelapp](https://github.com/thiagolioy/marvelapp)
@@ -150,9 +232,6 @@ Reactant is a reactive architecture for iOS
 [RxViewController](https://github.com/devxoul/RxViewController)
 对UIViewController和NSViewController的响应式包装
 
-[RxExpect](https://github.com/devxoul/RxExpect)
-RxSwift测试框架
-
 [ReusableKit](https://github.com/devxoul/ReusableKit)
 提供了一些API来管理可重用单元格和视图的生命周期
 
@@ -185,3 +264,15 @@ RxSwift reactive wrapper for view gestures
 
 [Action](https://github.com/RxSwiftCommunity/Action)
 Abstracts actions to be performed in RxSwift.
+
+[RxIGListKit](https://github.com/yuzushioh/RxIGListKit)
+IGListKit with RxSwift🚀
+
+[RxWebKit](https://github.com/RxSwiftCommunity/RxWebKit)
+RxWebKit is a RxSwift wrapper for WebKit
+
+[RxExpect](https://github.com/devxoul/RxExpect)
+RxSwift测试框架
+
+[RxNimble](https://github.com/RxSwiftCommunity/RxNimble)
+Nimble extensions that making unit testing with RxSwift easier 🎉
