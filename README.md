@@ -8,6 +8,8 @@
 
 - [RxSwift文档的中文翻译](https://github.com/jhw-dev/RxSwift-CN)
 
+- [RxSwift文档的中文翻译](https://beeth0ven.github.io/RxSwift-Chinese-Documentation/) *****推荐**
+
 - [Getting Started With RxSwift and RxCocoa](http://southpeak.github.io/2017/01/16/Getting-Started-With-RxSwift-and-RxCocoa/)
 
 - [使用 RxSwift 进行响应式编程](https://news.realm.io/cn/news/altconf-scott-gardner-reactive-programming-with-rxswift/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
