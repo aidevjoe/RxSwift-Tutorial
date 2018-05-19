@@ -8,7 +8,9 @@ RxSwift QQ 交流群: 424180219
 
 - [RxSwift文档的中文翻译](https://github.com/jhw-dev/RxSwift-CN)
 
-- [RxSwift文档的中文翻译](https://beeth0ven.github.io/RxSwift-Chinese-Documentation/) *****推荐**
+- [RxSwift文档的中文翻译](https://beeth0ven.github.io/RxSwift-Chinese-Documentation/) **推荐**
+
+- [MVVM, Coordinators 和 RxSwift 的抽丝剥茧](https://juejin.im/post/59acf7dcf265da24722fe6a1)
 
 - [Getting Started With RxSwift and RxCocoa](http://southpeak.github.io/2017/01/16/Getting-Started-With-RxSwift-and-RxCocoa/)
 
